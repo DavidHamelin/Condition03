@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\LesConditions\Condition03\bin\Debug\Condition03.exe.config
+C:\Users\Dell\source\repos\LesConditions\Condition03\bin\Debug\Condition03.exe
+C:\Users\Dell\source\repos\LesConditions\Condition03\bin\Debug\Condition03.pdb
+C:\Users\Dell\source\repos\LesConditions\Condition03\obj\Debug\Condition03.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\LesConditions\Condition03\obj\Debug\Condition03.exe
+C:\Users\Dell\source\repos\LesConditions\Condition03\obj\Debug\Condition03.pdb
